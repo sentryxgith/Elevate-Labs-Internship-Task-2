@@ -86,10 +86,11 @@ This project analyzes the [Superstore dataset](https://www.kaggle.com/datasets/a
 ## Repository Structure
 
 ```
-├── data_cleaning.py
+├── Superstore Analysis Dashboard.pdf
+├── Superstore Sales & Profit Analysis.pptx
+├── TASK 2 DATA ANALYST.pdf
 ├── cleaned_superstore.csv
-├── Superstore_Dashboard.pbix
-├── dashboard_screenshot.png
+├── data_cleaning.py
 ├── README.md
 ```
 
